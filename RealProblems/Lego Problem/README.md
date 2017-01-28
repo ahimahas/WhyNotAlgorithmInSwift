@@ -17,3 +17,7 @@ Ex. when given height is 4, the output number will be 3 such as;
 ## How it works  
 Check blog  
 https://medium.com/@ahimahas12/algorithm-in-swift-lego-problem-d58c7c809556#.oqezx0uhm
+
+
+## Behind Story
+It was the tech interview question by G. At the time, I couldn't get a clue how to solve this issue but I found the solution from the book named, "Cracking the Coding Interview" later on.  
