@@ -8,3 +8,5 @@ Alright then, why not Swift?
 This github repositoy is for the all questions I gave during technical interview and solutions in Swift.  
 And also for the basic knowledge about data stucture and algorithm, I will continuously update examples in the "Basic" folder.  
 Hope it helps to those who love Swift. :)  
+
+![](http://cdn4.quintetsolutions.com/img/services/solutions/swift_Service_Provider_India.jpg)
