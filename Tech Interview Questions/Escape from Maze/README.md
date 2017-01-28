@@ -1,4 +1,4 @@
-# Exit from Maze
+# Escape from Maze
 
 ## Problem Definition
 There is a maze made up by 2d array. It contains one of two integer values 0 which means can pass throughable, and 1 which mean can not work through.  
