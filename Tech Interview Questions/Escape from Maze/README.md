@@ -27,4 +27,4 @@ For convenience, I made a struct named IndexPath which stores row, column positi
 
 
 ## Behind Story
-This algorithm problem comes from on-line coding test by e-commerce company, A.  There are two algorithm problems needed to be solved for 75 minite.  
+This algorithm problem comes from on-line coding test.  There are two algorithm problems needed to be solved for 75 minite.  
