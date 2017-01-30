@@ -20,4 +20,4 @@ https://medium.com/@ahimahas12/algorithm-in-swift-lego-problem-d58c7c809556#.oqe
 
 
 ## Behind Story
-It was the tech interview question by G. At the time, I couldn't get a clue how to solve this issue but I found the solution from the book named, "Cracking the Coding Interview" later on.  
+It was the second tech interview question. At the time, I couldn't get a clue how to solve this issue but I found the solution from the book named, "Cracking the Coding Interview" later on.  
